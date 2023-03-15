@@ -1,6 +1,6 @@
 # rustpal: A ChatGPT assistant built with Rust
 
-I'm using this to learn Rust. It fun to build.
+I'm using this to learn Rust. It was fun to build.
 
 https://user-images.githubusercontent.com/848147/225391449-694f90ba-7397-4a31-9e60-437e44c3ed09.mp4
 
