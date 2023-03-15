@@ -12,7 +12,7 @@ Install dependencies:
 cargo install
 ```
 
-Get your [OpenAI] API key: https://platform.openai.com/account/api-keys and export it as an environment variable in your shell:
+Get your [OpenAI API key](https://platform.openai.com/account/api-keys) and export it as an environment variable in your shell:
 
 ```bash
 export OPENAI_API_KEY=sk-...
